@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2019",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ]
+  ],
+  "legacy_uid": "92ae73d1-8b8b-4845-54f2-8522b2605e6f",
+  "instructors": {
+    "content": [
+      "dbc15292-b979-7705-b60c-2e7a7c68c2d2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ddd4674d-0074-bae8-c31c-a7558f944cd4",
+    "website": "16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019"
+  },
+  "course_title": "Risk Aware and Robust Nonlinear Planning",
+  "course_description": "In this course, {{% resource_link \"f3d3dec9-78f2-4bc4-9992-ae1b9869392e\" \"Dr. Ashkan Jasour\" %}} addresses advanced probabilistic and robust optimization-based techniques for control and safety verification of nonlinear dynamical systems in the presence of uncertainties. Specifically, we will learn how to leverage rigorous mathematical tools, such as the theory of measures and moments, the theory of nonnegative polynomials, and semidefinite programming, to develop convex optimization formulations to control and analyze uncertain nonlinear dynamical systems with applications in autonomous systems and robotics.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.S498",
+  "course_image_thumbnail": {
+    "content": "880698f9-bb3e-b8d0-6ecb-1ead37879ff5",
+    "website": "16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Projects",
+    "Lecture Notes"
+  ],
+  "site_uid": "f581bdfb-71e4-47d3-b581-998e20546807",
+  "site_short_id": "16.s498-fall-2019",
+  "site_url_path": "courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019",
+  "title": "Course Metadata"
+}
