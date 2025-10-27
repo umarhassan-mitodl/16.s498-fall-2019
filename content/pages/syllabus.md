@@ -76,8 +76,8 @@ Research Project
 Code Repository
 ---------------
 
-The codes of the lectures are available on the {{% resource_link "8a7d95f3-49dc-4ac9-97a0-91d3c767c9b6" "fall 2019 course website on GitHub" %}}. To run the codes you need the following packages:
+The codes of the lectures are available on the [fall 2019 course website on GitHub](https://github.com/jasour/rarnop19). To run the codes you need the following packages:
 
-1.  {{% resource_link "f39a98ce-7715-41f3-b53a-aa22088d4fc9" "GloptiPoly 3" %}}
-2.  {{% resource_link "d233f77a-dcd7-47ad-852b-4011e005243d" "Yalmip" %}}
-3.  SDP solvers like "{{% resource_link "ea70b021-ffd4-4e71-8d30-12746b772058" "Mosek" %}}" or "{{% resource_link "2d3aff58-60c0-4678-8ebc-05cd4528acb8" "SeDuMi" %}}"
+1.  [GloptiPoly 3](https://homepages.laas.fr/henrion/software/gloptipoly/)
+2.  [Yalmip](https://yalmip.github.io/download/)
+3.  SDP solvers like "[Mosek](https://www.mosek.com/downloads/)" or "[SeDuMi](https://sedumi.ie.lehigh.edu/?page_id=58)"

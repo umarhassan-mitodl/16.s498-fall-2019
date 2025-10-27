@@ -28,7 +28,7 @@
     "website": "16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019"
   },
   "course_title": "Risk Aware and Robust Nonlinear Planning",
-  "course_description": "In this course, {{% resource_link \"f3d3dec9-78f2-4bc4-9992-ae1b9869392e\" \"Dr. Ashkan Jasour\" %}} addresses advanced probabilistic and robust optimization-based techniques for control and safety verification of nonlinear dynamical systems in the presence of uncertainties. Specifically, we will learn how to leverage rigorous mathematical tools, such as the theory of measures and moments, the theory of nonnegative polynomials, and semidefinite programming, to develop convex optimization formulations to control and analyze uncertain nonlinear dynamical systems with applications in autonomous systems and robotics.\n",
+  "course_description": "In this course, [Dr. Ashkan Jasour](http://jasour.mit.edu/) addresses advanced probabilistic and robust optimization-based techniques for control and safety verification of nonlinear dynamical systems in the presence of uncertainties. Specifically, we will learn how to leverage rigorous mathematical tools, such as the theory of measures and moments, the theory of nonnegative polynomials, and semidefinite programming, to develop convex optimization formulations to control and analyze uncertain nonlinear dynamical systems with applications in autonomous systems and robotics.\n",
   "department_numbers": [
     "16"
   ],
